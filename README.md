@@ -1,1 +1,2 @@
-# hey
+ <section id="tropicalia" class="my-5 pt-6 secao-tropicalia" tabindex="0" aria-label="Seção explicativa sobre a tropicália">            <div class="container d-flex align-items-center ">                <div class="col-4 d-flex justify-content-center fundo-galeria">                <div class="col-4 d-flex justify-content-center ">                    <img src="img/image (1).png" class="rounded-pill" width="273" height="331" loading="lazy">                </div>                <div class="col-5">
+ 
